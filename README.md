@@ -1,6 +1,6 @@
 # Micard
 
-A new Flutter project.
+Micard Flutter project.
 
 ## Getting Started
 
